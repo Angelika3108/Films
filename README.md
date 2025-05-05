@@ -36,3 +36,11 @@ Average budget and percentage of above-average films per country
 (Countries with >30% above average are color-highlighted)
 
 •	Rounded and formatted values for improved readability
+## 📊 Dashboard Overview
+
+### Chart Set 1
+![Chart1](Charts1.jpg)
+
+### Chart Set 2
+![Chart2](Charts2.jpg)
+
