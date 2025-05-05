@@ -3,8 +3,6 @@ This project was made to fulfil tasks in Films.docx file. This Power BI report a
 ________________________________________
 Data Sources
 
-The report is built from the following key tables:
-
 •	Filmai – Main table with film-level data: title, year, budget, box office, genre, country, director ID
 
 •	GreatestFilms – List of top-rated films with director names
