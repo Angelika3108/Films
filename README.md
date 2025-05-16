@@ -38,9 +38,9 @@ Average budget and percentage of above-average films per country
 •	Rounded and formatted values for improved readability
 ## 📊 Dashboard Overview
 
-### Chart Set 1
+### Genres and Oscars
 ![Chart1](Charts1.jpg)
 
-### Chart Set 2
+### Boxoffice and Profit
 ![Chart2](Charts2.jpg)
 
